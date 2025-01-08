@@ -1,0 +1,12 @@
+streamlit>=1.31.0
+phidata>=2.7.0
+pydantic>=2.0.0
+sqlalchemy>=2.0.0
+rich>=13.0.0
+python-dotenv>=1.0.0
+loguru>=0.7.0
+markdown>=3.5.0
+# Development dependencies
+black>=23.0.0
+pylint>=3.0.0
+pytest>=7.0.0
